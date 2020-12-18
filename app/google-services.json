@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "685183846663",
+    "project_id": "chatutil",
+    "storage_bucket": "chatutil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685183846663:android:02b5a9eab199b358111da2",
+        "android_client_info": {
+          "package_name": "com.jsv.chatutil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685183846663-0i9epkmfdksv8m92phcsc6mpc68g9rv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBU9yT2n4ShBI_B6IuX0AtwmTBTudQhjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685183846663-0i9epkmfdksv8m92phcsc6mpc68g9rv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
